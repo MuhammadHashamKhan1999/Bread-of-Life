@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947393095257",
+    "project_id": "bread-of-life-ministries-87200",
+    "storage_bucket": "bread-of-life-ministries-87200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947393095257:android:2f590a9727b4be692b3348",
+        "android_client_info": {
+          "package_name": "com.breadoflife.ministries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947393095257-8nhd39rcv6q1ov50hlkc48eqsb84dbnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGC5tySbL7EkOJ2yKvsiqcBioWKuWsUMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947393095257-8nhd39rcv6q1ov50hlkc48eqsb84dbnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947393095257-ckc518mvm4n5ejvpqsu1mfdnt3m83563.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.breadoflife.ministries"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

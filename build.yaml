@@ -1,0 +1,9 @@
+# https://pub.dartlang.org/packages/build_config
+targets:
+  $default:
+    builders:
+      slang_build_runner:
+        options:
+          base_locale: en
+          translate_var: t
+          output_file_name: strings.g.dart
